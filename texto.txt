@@ -1,2 +1,2 @@
-Nombre: 
-Rut:
+Nombre: john valencia
+Rut: 20928916-4
